@@ -17,7 +17,7 @@ The included CSV files are randomized synthetic pilot cohorts ($N=100$) designed
 
 1. clone the repo:
    ```bash
-   git clone https://github.com/rezigetsadze/HPA-Metabolic-UKB.git
+   git clone https://github.com/rezi-getsadze/HPA-Metabolic-UKB.git
    ```
 2. to install the required Python packages, run:
    ```bash
