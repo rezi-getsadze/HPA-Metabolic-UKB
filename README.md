@@ -23,3 +23,5 @@ The included CSV files are randomized synthetic pilot cohorts ($N=100$) designed
    ```bash
    pip install -r requirements.txt
    ```
+
+[![DOI](https://zenodo.org/badge/1162055055.svg)](https://doi.org/10.5281/zenodo.19431079)
